@@ -1,9 +1,22 @@
 <script setup>
 const { locales, locale, setLocaleCookie } = useI18n();
 
-watch(locale, (newLocale) => {
-  if (newLocale) setLocaleCookie(newLocale);
-});
+// Check if running in a browser environment
+if (typeof window !== 'undefined') {
+  const storedLocale = localStorage.getItem('selectedLocale');
+  if (storedLocale) {
+    locale.value = storedLocale;
+  } else {
+    localStorage.setItem('selectedLocale', locale.value);
+  }
+
+  watch(locale, (newLocale) => {
+    if (newLocale) {
+      setLocaleCookie(newLocale);
+      localStorage.setItem('selectedLocale', newLocale); // Store the selected language
+    }
+  });
+}
 </script>
 
 <template>

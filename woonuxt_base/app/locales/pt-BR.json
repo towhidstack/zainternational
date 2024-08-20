@@ -161,6 +161,11 @@
       "invalidPasswordResetLink": "O link de redefinição de senha é inválido.",
       "general": "Algo deu errado",
       "noOrder": "Não conseguimos encontrar seu pedido. Por favor, tente novamente mais tarde."
+    },
+    "hero": {
+      "title": "Os melhores sapatos da cidade!",
+      "description": "25% de desconto em todos os produtos",
+      "button": "Compre agora"
     }
   }
 }

@@ -161,6 +161,11 @@
       "invalidPasswordResetLink": "Il link per reimpostare la password non è valido.",
       "general": "Qualcosa è andato storto",
       "noOrder": "Non abbiamo trovato il tuo ordine. Riprova più tardi."
+    },
+    "hero": {
+      "title": "Le migliori scarpe della città!",
+      "description": "25% di sconto su tutti i prodotti",
+      "button": "Acquista ora"
     }
   }
 }

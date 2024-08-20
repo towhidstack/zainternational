@@ -161,6 +161,11 @@
       "invalidPasswordResetLink": "El enlace de restablecimiento de contraseña no es válido.",
       "general": "Ha ocurrido un error",
       "noOrder": "No hemos podido encontrar tu pedido. Por favor, inténtalo de nuevo más tarde."
+    },
+    "hero": {
+      "title": "¡Los mejores zapatos de la ciudad!",
+      "description": "25% de descuento en todos los productos",
+      "button": "Compra ahora"
     }
   }
 }

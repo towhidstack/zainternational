@@ -161,6 +161,11 @@
       "invalidPasswordResetLink": "Password reset link is invalid.",
       "general": "Something went wrong",
       "noOrder": "We could not find your order. Please try again later."
-    }
+    },
+    "hero": {
+      "title": "Best Quality Shoes in the Town!",
+      "description": "25% Off On All Products",
+      "button": "Shop Now"
+    },
   }
 }

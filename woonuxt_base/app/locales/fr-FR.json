@@ -161,6 +161,11 @@
       "invalidPasswordResetLink": "Le lien de réinitialisation du mot de passe est invalide.",
       "general": "Une erreur est survenue",
       "noOrder": "Impossible de trouver votre commande. Veuillez réessayer plus tard."
+    },
+    "hero": {
+      "title": "Les meilleurs chaussures de la ville !",
+      "description": "25 % de réduction sur tous les produits",
+      "button": "Achetez maintenant"
     }
   }
 }

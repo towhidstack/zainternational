@@ -71,7 +71,7 @@
     },
     "shop": {
       "shopByCategory": "বিভাগ অনুযায়ী কেনাকাটা করুন",
-      "popularProducts": "জনপ্রিয় পণ্য",
+      "popularProducts": "জনপ্রিয় প্রোডাক্ট",
       "availability": "উপলব্ধতা",
       "inStock": "স্টকে আছে",
       "outOfStock": "স্টকে নেই",
@@ -87,7 +87,7 @@
       "addToCart": "কার্টে যোগ করুন",
       "adding": "যোগ করা হচ্ছে...",
       "productDescription": "বিবরণ",
-      "productImage": "পণ্যের ছবি",
+      "productImage": "প্রোডাক্টের ছবি",
       "productBestSellers": "শ্রেষ্ঠ বিক্রেতা",
       "newArrivals": "নতুন আগমন",
       "onSale": "বিক্রয়ে",
@@ -96,7 +96,7 @@
       "noReviews": "এখনও কোন রিভিউ নেই।",
       "writeReview": "একটি রিভিউ লিখুন",
       "close": "বন্ধ করুন",
-      "rateReview": "এই পণ্যের সাথে আপনার অভিজ্ঞতা কেমন? আমরা ৫ স্টার অভিজ্ঞতা চাই",
+      "rateReview": "এই প্রোডাক্টের সাথে আপনার অভিজ্ঞতা কেমন? আমরা ৫ স্টার অভিজ্ঞতা চাই",
       "rateContent": "আপনার অভিজ্ঞতা কেমন ছিল?",
       "rateEmail": "আপনার ইমেইল",
       "submit": "জমা দিন",
@@ -113,24 +113,24 @@
       "rating": "রেটিং | রেটিংসমূহ",
       "cart": "কার্ট",
       "cartEmpty": "আপনার কার্ট খালি।",
-      "addProductsInYourCart": "অনুগ্রহ করে, আপনার কার্টে কিছু পণ্য যোগ করুন।",
-      "browseOurProducts": "আমাদের পণ্যসমূহ দেখুন",
+      "addProductsInYourCart": "অনুগ্রহ করে, আপনার কার্টে কিছু প্রোডাক্ট যোগ করুন।",
+      "browseOurProducts": "আমাদের প্রোডাক্টসমূহ দেখুন",
       "checkout": "চেকআউট",
       "checkoutButton": "চেকআউট",
       "discount": "ছাড়",
       "giftCards": "উপহার কার্ড",
-      "searchProducts": "পণ্য অনুসন্ধান করুন...",
+      "searchProducts": "প্রোডাক্ট অনুসন্ধান করুন...",
       "couponCode": "কুপন কোড",
       "downloadsRemaining": "ডাউনলোড অবশিষ্ট",
       "expires": "মেয়াদ শেষ",
-      "productNotFound": "পণ্য পাওয়া যায়নি",
+      "productNotFound": "প্রোডাক্ট পাওয়া যায়নি",
       "productResultCount": {
         "showing": "দেখানো হচ্ছে",
         "to": "থেকে",
         "of": "এর মধ্যে"
       },
       "noProductsFound": {
-        "title": "কোন পণ্য পাওয়া যায়নি",
+        "title": "কোন প্রোডাক্ট পাওয়া যায়নি",
         "subText": "আপনার অনুসন্ধান বা ফিল্টার সামঞ্জস্য করার চেষ্টা করুন যা আপনি খুঁজছেন।",
         "clearFiltersAndSearch": "সব ফিল্টার মুছুন এবং পুনরায় অনুসন্ধান করুন"
       }
@@ -161,6 +161,11 @@
       "invalidPasswordResetLink": "পাসওয়ার্ড পুনরায় সেট করার লিঙ্কটি অবৈধ।",
       "general": "কিছু ভুল হয়েছে",
       "noOrder": "আপনার অর্ডার খুঁজে পাওয়া যায়নি। পরে আবার চেষ্টা করুন।"
+    },
+    "hero": {
+      "title": "শহরের সেরা মানের জুতো!",
+      "description": "সব পণ্যে ২৫% ছাড়",
+      "button": "এখনই কিনুন"
     }
   }
 }

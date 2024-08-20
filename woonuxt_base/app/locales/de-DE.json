@@ -161,6 +161,11 @@
       "invalidPasswordResetLink": "Der Passwort-Reset-Link ist ungültig.",
       "general": "Etwas ist schief gelaufen",
       "noOrder": "Wir konnten Ihre Bestellung nicht finden. Bitte versuchen Sie es später noch einmal."
+    },
+    "hero": {
+      "title": "Die besten Schuhe der Stadt!",
+      "description": "25% Rabatt auf alle Produkte",
+      "button": "Jetzt einkaufen"
     }
   }
 }
