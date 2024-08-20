@@ -13,11 +13,18 @@ export default defineNuxtConfig({
    * @property {number} interval - How long to wait between prerendering pages
    * @property {boolean} failOnError - This stops the build from failing but the page will not be statically generated
    */
+  nitro: {
+    prerender: {
+      concurrency: 10,
+      interval: 1000,
+      failOnError: false,
+    },
+  },
    devtools: { enabled: true },
   modules: ["@nuxt/image"],
   image: {
     // force ipx, as otherwise it would default to using Netlify Image CDN (which probably is better to use, but issue is about ipx)
     provider: "ipx",
-    domains: ["secure.woonuxt.com", "zainternationaltrading.com"],
+    domains: ["secure.woonuxt.com"],
   },
 });
