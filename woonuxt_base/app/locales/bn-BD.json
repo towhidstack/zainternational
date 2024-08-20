@@ -15,9 +15,9 @@
       "shippingSelect": "শিপিং পদ্ধতি নির্বাচন করুন",
       "tax": "কর",
       "myDetails": "আমার বিবরণ",
-      "home": "বাড়ি",
-      "allProducts": "পণ্য",
-      "product": "পণ্য",
+      "home": "হোম",
+      "allProducts": "সকল প্রোডাক্ট",
+      "product": "প্রোডাক্ট",
       "contact": "যোগাযোগ",
       "menu": "মেনু",
       "color": "রঙ",
@@ -67,7 +67,7 @@
       "updating": "আপডেট করা হচ্ছে",
       "updateDetails": "বিবরণ আপডেট করুন",
       "updateSuccess": "সফলভাবে আপডেট হয়েছে",
-      "failed": "আপডেট করতে ব্যর্থ"
+      "failed": "আপডেট করতে ব্যর্থ হয়েছে"
     },
     "shop": {
       "shopByCategory": "বিভাগ অনুযায়ী কেনাকাটা করুন",
