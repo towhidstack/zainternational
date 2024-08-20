@@ -74,7 +74,7 @@ export default defineNuxtConfig({
       { code: 'pt_BR', file: 'pt-BR.json', name: 'Português 🇧🇷' },
     ],
     langDir: 'locales',
-    defaultLocale: 'en_US',
+    defaultLocale: 'bn_BD',
     strategy: 'no_prefix',
   },
 });
